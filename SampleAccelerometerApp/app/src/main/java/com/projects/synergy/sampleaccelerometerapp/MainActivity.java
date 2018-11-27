@@ -292,7 +292,6 @@ public class MainActivity extends Activity implements SensorEventListener{
     protected void onPause() {
         super.onPause();
 
-        stopBtnClicked();
     }
 
 

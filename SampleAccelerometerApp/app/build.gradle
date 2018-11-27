@@ -4,8 +4,8 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.projects.synergy.sampleaccelerometerapp"
-        minSdkVersion 23
-        targetSdkVersion 28
+        minSdkVersion 19
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
